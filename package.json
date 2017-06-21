@@ -1,0 +1,24 @@
+{
+  "name": "boke",
+  "version": "1.0.0",
+  "description": "定制化的博客网站生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Arvin333/boke.git"
+  },
+  "keywords": [
+    "boke",
+    "website",
+    "boke-gennerator"
+  ],
+  "author": "Arvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvin333/boke/issues"
+  },
+  "homepage": "https://github.com/Arvin333/boke#readme"
+}
