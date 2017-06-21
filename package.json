@@ -4,7 +4,9 @@
   "description": "定制化的博客网站生成器",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npm run dev"
+    ,
   },
   "repository": {
     "type": "git",
