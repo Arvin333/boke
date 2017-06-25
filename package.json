@@ -1,6 +1,7 @@
 {
   "name": "boke",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "just have a try on build a blog generator",
   "author": "Arvin333",
   "private": true,
@@ -91,4 +92,28 @@
     "last 2 versions",
     "not ie <= 8"
   ]
+=======
+  "description": "定制化的博客网站生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npm run dev"
+    ,
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Arvin333/boke.git"
+  },
+  "keywords": [
+    "boke",
+    "website",
+    "boke-gennerator"
+  ],
+  "author": "Arvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvin333/boke/issues"
+  },
+  "homepage": "https://github.com/Arvin333/boke#readme"
+>>>>>>> 6066a00bff7b4bc042cf2051871314684bc249db
 }

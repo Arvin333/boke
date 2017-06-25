@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # boke
 
 > just have a try on build a blog generator
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+## 你的私人博客生成器
+>>>>>>> 6066a00bff7b4bc042cf2051871314684bc249db
